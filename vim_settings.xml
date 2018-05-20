@@ -68,12 +68,9 @@
         <mark key="." line="20" column="45" />
         <mark key="^" line="19" column="3" />
       </file>
-      <file name="D:/IntelliJ_projects/FxMultiScene/src/sample/Main.java" timestamp="1526816866608">
+      <file name="D:/IntelliJ_projects/FxMultiScene/src/sample/Main.java" timestamp="1526818962672">
         <mark key="'" line="38" column="50" />
-        <mark key="[" line="23" column="67" />
-        <mark key="]" line="23" column="67" />
         <mark key="^" line="38" column="78" />
-        <mark key="." line="23" column="67" />
       </file>
       <file name="D:/IntelliJ_projects/JavaFxGrid/src/sample/MainTest.groovy" timestamp="1526800802479">
         <mark key="[" line="11" column="0" />
@@ -93,10 +90,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>facebook</text>
+        <text encoding="base64">ICAgICAgICBzY2VuZTEuZ2V0U3R5bGVzaGVldHMoKS5hZGQoIm15U3R5bGUuY3NzIik7</text>
       </register>
       <register name="-" type="4">
-        <text>facebook</text>
+        <text encoding="base64">ICAgICAgICBzY2VuZTEuZ2V0U3R5bGVzaGVldHMoKS5hZGQoIm15U3R5bGUuY3NzIik7</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YW5cPg==</text>
@@ -138,7 +135,7 @@
       <last-search encoding="base64">XDx0YW5cPg==</last-search>
       <last-offset />
       <last-pattern encoding="base64">XDx0YW5cPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
