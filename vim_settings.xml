@@ -28,9 +28,9 @@
         <mark key="." line="1" column="7" />
       </file>
       <file name="D:/IntelliJ_projects/Hello/src/Person.java" timestamp="1526810933397">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="33" />
-        <mark key="." line="2" column="33" />
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="33" />
+        <mark key="." line="3" column="33" />
       </file>
       <file name="D:/IntelliJ_projects/Hello/Hello.iml" timestamp="1526806331092">
         <mark key="[" line="3" column="0" />
@@ -48,10 +48,10 @@
         <mark key="]" line="41" column="16" />
         <mark key="." line="41" column="16" />
       </file>
-      <file name="D:/IntelliJ_projects/Hello/mytests/PersonTest.java" timestamp="1526810882553">
-        <mark key="[" line="25" column="8" />
-        <mark key="]" line="25" column="8" />
-        <mark key="." line="25" column="8" />
+      <file name="D:/IntelliJ_projects/Hello/mytests/PersonTest.java" timestamp="1526812658484">
+        <mark key="[" line="37" column="5" />
+        <mark key="]" line="37" column="5" />
+        <mark key="." line="37" column="5" />
       </file>
       <file name="D:/IntelliJ_projects/eye221/Hi/src/Bye.java" timestamp="1523970393890">
         <mark key="[" line="0" column="17" />
@@ -85,12 +85,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>assertFails(person.isHappy());
-    }
-}</text>
+        <text encoding="base64">ICAgLy9hY3QKICAgICAgICBjYWxjdWxhdGVTdW0oLTEsMik7</text>
       </register>
       <register name="-" type="4">
-        <text>port java.awt.event.ActionEvent;</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
@@ -99,33 +97,33 @@
         <text encoding="base64">ewogICAgCiAgICBAb3JnLmp1bml0LkJlZm9yZQogICAgcHVibGljIHZvaWQgc2V0VXAoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICAKICAgIH0KCiAgICBAb3JnLmp1bml0LkFmdGVyCiAgICBwdWJsaWMgdm9pZCB0ZWFyRG93bigpIHRocm93cyBFeGNlcHRpb24gewogICAgfQogICAgQFRlc3QKICAgIA==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ICAgLy9hY3QKICAgICAgICBjYWxjdWxhdGVTdW0oLTEsMik7</text>
+      </register>
+      <register name="2" type="4">
         <text>assertFails(person.isHappy());
     }
 }</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIDxleGNsdWRlLW91dHB1dCAvPgo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIDxjb250ZW50IHVybD0iZmlsZTovLyRNT0RVTEVfRElSJCI+Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgPHNvdXJjZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvc3JjIiBpc1Rlc3RTb3VyY2U9ImZhbHNlIiAvPgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIDwvY29udGVudD4K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIDxvcmRlckVudHJ5IHR5cGU9ImluaGVyaXRlZEpkayIgLz4K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIDxvcmRlckVudHJ5IHR5cGU9InNvdXJjZUZvbGRlciIgZm9yVGVzdHM9ImZhbHNlIiAvPgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICA8L2NvbXBvbmVudD4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">PC9tb2R1bGU+Cg==</text>
+        <text encoding="base64">ICA8L2NvbXBvbmVudD4K</text>
       </register>
     </registers>
     <search>
