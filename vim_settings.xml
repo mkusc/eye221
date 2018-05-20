@@ -6,8 +6,10 @@
       <file name="D:/IntelliJ_projects/ICT221/src/CancatClassTest.groovy" timestamp="1524031459155">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="D:/IntelliJ_projects/SecondFx/src/sample/Main.java" timestamp="1526795120732">
-        <mark key="[" line="42" column="27" />
+      <file name="D:/IntelliJ_projects/SecondFx/src/sample/Main.java" timestamp="1526797312112">
+        <mark key="[" line="41" column="16" />
+        <mark key="]" line="41" column="16" />
+        <mark key="." line="41" column="16" />
       </file>
       <file name="/Dummy.txt" timestamp="1524540603443">
         <mark key="[" line="0" column="0" />
@@ -62,10 +64,10 @@
         <text encoding="base64">CgogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewogICAgICAgIGxhdW5jaChhcmdzKTsKICAgIH0KfQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>utton.setStyle(&quot;-fx-b</text>
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text>utton.setStyle(&quot;-fx-b</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
