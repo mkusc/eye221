@@ -25,6 +25,12 @@
         <mark key="]" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
+      <file name="D:/IntelliJ_projects/FirstJavaFx/src/sample/Main.java" timestamp="1526793297046">
+        <mark key="[" line="17" column="39" />
+        <mark key="]" line="17" column="41" />
+        <mark key="^" line="17" column="41" />
+        <mark key="." line="17" column="41" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1521351047700">
         <mark key="[" line="20" column="45" />
         <mark key="]" line="20" column="45" />
@@ -34,7 +40,7 @@
       <file name="D:/IntelliJ_projects/eye221/Hi/src/Demo.java" timestamp="1524038734468">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1524033533916">
+      <file name="/fragment.java" timestamp="1526791992640">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IntelliJ_projects/ICT221/src/CancatClass.java" timestamp="1524031144651">
@@ -49,11 +55,14 @@
       <register name="0" type="4">
         <text encoding="base64">ewogICAgCiAgICBAb3JnLmp1bml0LkJlZm9yZQogICAgcHVibGljIHZvaWQgc2V0VXAoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICAKICAgIH0KCiAgICBAb3JnLmp1bml0LkFmdGVyCiAgICBwdWJsaWMgdm9pZCB0ZWFyRG93bigpIHRocm93cyBFeGNlcHRpb24gewogICAgfQogICAgQFRlc3QKICAgIA==</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">CgogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewogICAgICAgIGxhdW5jaChhcmdzKTsKICAgIH0KfQo=</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>static</text>
+        <text>utton.setStyle(&quot;-fx-b</text>
       </register>
       <register name="-" type="4">
-        <text>static</text>
+        <text>utton.setStyle(&quot;-fx-b</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
