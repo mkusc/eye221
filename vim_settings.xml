@@ -43,10 +43,11 @@
       <file name="D:/IntelliJ_projects/ICT221/src/CancatClassTest.groovy" timestamp="1524031459155">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="D:/IntelliJ_projects/SecondFx/src/sample/Main.java" timestamp="1526799812742">
-        <mark key="[" line="41" column="16" />
-        <mark key="]" line="41" column="16" />
-        <mark key="." line="41" column="16" />
+      <file name="D:/IntelliJ_projects/SecondFx/src/sample/Main.java" timestamp="1526880908624">
+        <mark key="[" line="34" column="69" />
+        <mark key="]" line="34" column="69" />
+        <mark key="." line="34" column="69" />
+        <mark key="^" line="34" column="69" />
       </file>
       <file name="D:/IntelliJ_projects/Hello/mytests/PersonTest.java" timestamp="1526812658484">
         <mark key="[" line="37" column="5" />
@@ -72,6 +73,9 @@
         <mark key="'" line="38" column="50" />
         <mark key="^" line="38" column="78" />
       </file>
+      <file name="D:/IntelliJ_projects/SecondFx/src/courses.txt" timestamp="1526881460821">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/IntelliJ_projects/JavaFxGrid/src/sample/MainTest.groovy" timestamp="1526800802479">
         <mark key="[" line="11" column="0" />
       </file>
@@ -89,8 +93,8 @@
       <jump line="29" column="50" filename="D:/IntelliJ_projects/FxMultiScene/src/sample/Main.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICBzY2VuZTEuZ2V0U3R5bGVzaGVldHMoKS5hZGQoIm15U3R5bGUuY3NzIik7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBidXR0b24xLnNldFN0eWxlKCItZngtYm9yZGVyLWNvbG9yOiAjZmYwMDAwOyAtZngtYm9yZGVyLXdpZHRoOiA1cHg7Iik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgICBzY2VuZTEuZ2V0U3R5bGVzaGVldHMoKS5hZGQoIm15U3R5bGUuY3NzIik7</text>
@@ -101,34 +105,34 @@
       <register name="0" type="4">
         <text encoding="base64">ewogICAgCiAgICBAb3JnLmp1bml0LkJlZm9yZQogICAgcHVibGljIHZvaWQgc2V0VXAoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICAKICAgIH0KCiAgICBAb3JnLmp1bml0LkFmdGVyCiAgICBwdWJsaWMgdm9pZCB0ZWFyRG93bigpIHRocm93cyBFeGNlcHRpb24gewogICAgfQogICAgQFRlc3QKICAgIA==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBidXR0b24xLnNldFN0eWxlKCItZngtYm9yZGVyLWNvbG9yOiAjZmYwMDAwOyAtZngtYm9yZGVyLXdpZHRoOiA1cHg7Iik7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICAgLy9hY3QKICAgICAgICBjYWxjdWxhdGVTdW0oLTEsMik7</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>assertFails(person.isHappy());
     }
 }</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIDxleGNsdWRlLW91dHB1dCAvPgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIDxjb250ZW50IHVybD0iZmlsZTovLyRNT0RVTEVfRElSJCI+Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgPHNvdXJjZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvc3JjIiBpc1Rlc3RTb3VyY2U9ImZhbHNlIiAvPgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIDwvY29udGVudD4K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxvcmRlckVudHJ5IHR5cGU9ImluaGVyaXRlZEpkayIgLz4K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDxvcmRlckVudHJ5IHR5cGU9InNvdXJjZUZvbGRlciIgZm9yVGVzdHM9ImZhbHNlIiAvPgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8L2NvbXBvbmVudD4K</text>
+        <text encoding="base64">ICAgIDxvcmRlckVudHJ5IHR5cGU9ImluaGVyaXRlZEpkayIgLz4K</text>
       </register>
     </registers>
     <search>
