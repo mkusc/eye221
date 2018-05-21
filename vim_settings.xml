@@ -43,11 +43,11 @@
       <file name="D:/IntelliJ_projects/ICT221/src/CancatClassTest.groovy" timestamp="1524031459155">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="D:/IntelliJ_projects/SecondFx/src/sample/Main.java" timestamp="1526880908624">
-        <mark key="[" line="34" column="69" />
-        <mark key="]" line="34" column="69" />
-        <mark key="." line="34" column="69" />
-        <mark key="^" line="34" column="69" />
+      <file name="D:/IntelliJ_projects/SecondFx/src/sample/Main.java" timestamp="1526883152750">
+        <mark key="[" line="59" column="59" />
+        <mark key="]" line="59" column="59" />
+        <mark key="^" line="42" column="69" />
+        <mark key="." line="59" column="59" />
       </file>
       <file name="D:/IntelliJ_projects/Hello/mytests/PersonTest.java" timestamp="1526812658484">
         <mark key="[" line="37" column="5" />
@@ -93,11 +93,11 @@
       <jump line="29" column="50" filename="D:/IntelliJ_projects/FxMultiScene/src/sample/Main.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBidXR0b24xLnNldFN0eWxlKCItZngtYm9yZGVyLWNvbG9yOiAjZmYwMDAwOyAtZngtYm9yZGVyLXdpZHRoOiA1cHg7Iik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>+observableList.getClass(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICBzY2VuZTEuZ2V0U3R5bGVzaGVldHMoKS5hZGQoIm15U3R5bGUuY3NzIik7</text>
+        <text>+observableList.getClass(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YW5cPg==</text>
