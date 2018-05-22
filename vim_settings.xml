@@ -60,8 +60,11 @@
       <file name="D:/IntelliJ_projects/eye221/Hi/src/Bye.java" timestamp="1523970393890">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="D:/IntelliJ_projects/Hello/src/Student.java" timestamp="1526957184525">
-        <mark key="[" line="0" column="21" />
+      <file name="D:/IntelliJ_projects/Hello/src/Student.java" timestamp="1526958355916">
+        <mark key="[" line="43" column="20" />
+        <mark key="]" line="43" column="20" />
+        <mark key="^" line="11" column="54" />
+        <mark key="." line="43" column="20" />
       </file>
       <file name="D:/IntelliJ_projects/FirstJavaFx/src/sample/Main.java" timestamp="1526793297046">
         <mark key="[" line="17" column="39" />
@@ -100,10 +103,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>atmc</text>
+        <text>string</text>
       </register>
       <register name="-" type="4">
-        <text>atmc</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YW5cPg==</text>
