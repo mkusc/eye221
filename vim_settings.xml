@@ -80,7 +80,12 @@
         <mark key="." line="20" column="45" />
         <mark key="^" line="19" column="3" />
       </file>
-      <file name="D:/IntelliJ_projects/Hello/src/Student2.java" timestamp="1526960828162" />
+      <file name="D:/IntelliJ_projects/Hello/src/Student2.java" timestamp="1526962316812">
+        <mark key="a" line="73" column="35" />
+        <mark key="[" line="62" column="20" />
+        <mark key="]" line="62" column="20" />
+        <mark key="." line="62" column="20" />
+      </file>
       <file name="D:/IntelliJ_projects/FxMultiScene/src/sample/Main.java" timestamp="1526818962672">
         <mark key="'" line="38" column="50" />
         <mark key="^" line="38" column="78" />
@@ -106,10 +111,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>System.out.println(studentDetails.toString());</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>System.out.println(studentDetails.toString());</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YW5cPg==</text>
