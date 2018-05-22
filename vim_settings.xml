@@ -80,11 +80,11 @@
         <mark key="." line="20" column="45" />
         <mark key="^" line="19" column="3" />
       </file>
-      <file name="D:/IntelliJ_projects/Hello/src/Student2.java" timestamp="1526962316812">
+      <file name="D:/IntelliJ_projects/Hello/src/Student2.java" timestamp="1526963407317">
         <mark key="a" line="73" column="35" />
-        <mark key="[" line="62" column="20" />
-        <mark key="]" line="62" column="20" />
-        <mark key="." line="62" column="20" />
+        <mark key="[" line="75" column="1" />
+        <mark key="]" line="75" column="1" />
+        <mark key="." line="75" column="1" />
       </file>
       <file name="D:/IntelliJ_projects/FxMultiScene/src/sample/Main.java" timestamp="1526818962672">
         <mark key="'" line="38" column="50" />
@@ -111,7 +111,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>System.out.println(studentDetails.toString());</text>
+        <text encoding="base64">ICAgICAgICAgICBmb3IgKFN0cmluZyBzdHVkZW50OiBzdHVkZW50RGV0YWlscy5rZXlTZXQoKSl7CiAgICAgICAgICAgICAgICAvL3ByaW50IGFsbCBzdHVkZW50IGlkIGFuZCBuYW1lcwogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJTdHVkZW50IElEOiAiK3N0dWRlbnQrIiBOYW1lOiAiK3N0dWRlbnRNYXAuZ2V0KHN0dWRlbnQpLmdldE5hbWUoKSk7CiAgICAgICAgICAgIA==</text>
       </register>
       <register name="-" type="4">
         <text>System.out.println(studentDetails.toString());</text>
@@ -122,34 +122,34 @@
       <register name="0" type="4">
         <text encoding="base64">ewogICAgCiAgICBAb3JnLmp1bml0LkJlZm9yZQogICAgcHVibGljIHZvaWQgc2V0VXAoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICAKICAgIH0KCiAgICBAb3JnLmp1bml0LkFmdGVyCiAgICBwdWJsaWMgdm9pZCB0ZWFyRG93bigpIHRocm93cyBFeGNlcHRpb24gewogICAgfQogICAgQFRlc3QKICAgIA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBidXR0b24xLnNldFN0eWxlKCItZngtYm9yZGVyLWNvbG9yOiAjZmYwMDAwOyAtZngtYm9yZGVyLXdpZHRoOiA1cHg7Iik7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAgICBmb3IgKFN0cmluZyBzdHVkZW50OiBzdHVkZW50RGV0YWlscy5rZXlTZXQoKSl7CiAgICAgICAgICAgICAgICAvL3ByaW50IGFsbCBzdHVkZW50IGlkIGFuZCBuYW1lcwogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJTdHVkZW50IElEOiAiK3N0dWRlbnQrIiBOYW1lOiAiK3N0dWRlbnRNYXAuZ2V0KHN0dWRlbnQpLmdldE5hbWUoKSk7CiAgICAgICAgICAgIA==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBidXR0b24xLnNldFN0eWxlKCItZngtYm9yZGVyLWNvbG9yOiAjZmYwMDAwOyAtZngtYm9yZGVyLXdpZHRoOiA1cHg7Iik7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgLy9hY3QKICAgICAgICBjYWxjdWxhdGVTdW0oLTEsMik7</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>assertFails(person.isHappy());
     }
 }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIDxleGNsdWRlLW91dHB1dCAvPgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIDxjb250ZW50IHVybD0iZmlsZTovLyRNT0RVTEVfRElSJCI+Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgPHNvdXJjZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvc3JjIiBpc1Rlc3RTb3VyY2U9ImZhbHNlIiAvPgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDwvY29udGVudD4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxvcmRlckVudHJ5IHR5cGU9ImluaGVyaXRlZEpkayIgLz4K</text>
+        <text encoding="base64">ICAgIDwvY29udGVudD4K</text>
       </register>
     </registers>
     <search>
