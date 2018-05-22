@@ -17,10 +17,6 @@
         <mark key="]" line="16" column="2" />
         <mark key="." line="16" column="2" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/Scratch.java" timestamp="1523972026822">
-        <mark key="'" line="27" column="13" />
-        <mark key="[" line="34" column="10" />
-      </file>
       <file name="D:/IntelliJ_projects/ICT221/src/MyMathTest.java" timestamp="1524033698886">
         <mark key="'" line="2" column="24" />
         <mark key="[" line="1" column="7" />
@@ -31,6 +27,12 @@
         <mark key="[" line="3" column="28" />
         <mark key="]" line="3" column="33" />
         <mark key="." line="3" column="33" />
+      </file>
+      <file name="D:/IntelliJ_projects/Hello/src/TestData.txt" timestamp="1526959646861">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+        <mark key="^" line="2" column="12" />
       </file>
       <file name="D:/IntelliJ_projects/Hello/Hello.iml" timestamp="1526806331092">
         <mark key="[" line="3" column="0" />
@@ -60,11 +62,11 @@
       <file name="D:/IntelliJ_projects/eye221/Hi/src/Bye.java" timestamp="1523970393890">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="D:/IntelliJ_projects/Hello/src/Student.java" timestamp="1526958355916">
-        <mark key="[" line="43" column="20" />
-        <mark key="]" line="43" column="20" />
-        <mark key="^" line="11" column="54" />
-        <mark key="." line="43" column="20" />
+      <file name="D:/IntelliJ_projects/Hello/src/Student.java" timestamp="1526959223545">
+        <mark key="[" line="45" column="20" />
+        <mark key="]" line="45" column="20" />
+        <mark key="^" line="13" column="54" />
+        <mark key="." line="45" column="20" />
       </file>
       <file name="D:/IntelliJ_projects/FirstJavaFx/src/sample/Main.java" timestamp="1526793297046">
         <mark key="[" line="17" column="39" />
@@ -78,6 +80,9 @@
         <mark key="." line="20" column="45" />
         <mark key="^" line="19" column="3" />
       </file>
+      <file name="D:/IntelliJ_projects/Hello/src/Student2.java" timestamp="1526959748384">
+        <mark key="[" line="4" column="0" />
+      </file>
       <file name="D:/IntelliJ_projects/FxMultiScene/src/sample/Main.java" timestamp="1526818962672">
         <mark key="'" line="38" column="50" />
         <mark key="^" line="38" column="78" />
@@ -88,7 +93,7 @@
       <file name="D:/IntelliJ_projects/JavaFxGrid/src/sample/MainTest.groovy" timestamp="1526800802479">
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1526893736402">
+      <file name="/fragment.java" timestamp="1526959474323">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IntelliJ_projects/ICT221/src/CancatClass.java" timestamp="1524031144651">
@@ -103,10 +108,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>string</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YW5cPg==</text>
